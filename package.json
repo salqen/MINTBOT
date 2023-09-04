@@ -1,0 +1,24 @@
+{
+  "name": "automint_py",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alchemy-sdk": "^2.10.0",
+    "csv-parser": "^3.0.0",
+    "ethereumjs-util": "^7.1.5",
+    "ethers": "^6.7.1",
+    "express": "^4.18.2",
+    "keccak256": "^1.0.6",
+    "merkle-tree-gen": "^1.1.0",
+    "merkle-tree-solidity": "^1.0.8",
+    "merkletreejs": "^0.3.10",
+    "web3": "^1.5.3"
+  }
+}
